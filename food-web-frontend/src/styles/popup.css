@@ -1,0 +1,39 @@
+.popup {
+    width: 350px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    font-family: "IBM Plex Sans", sans-serif;
+  }
+  
+  .popup-item {
+    text-align: center;
+  }
+  
+  .popup img {
+    width: 100px;
+    margin-top: -50px;
+    border-radius: 50%;
+  }
+  
+  .popup h2 {
+    color: #091d3e;
+    font-size: 38px;
+    font-weight: 500;
+    margin: 10px 0 10px;
+  }
+  
+  .popup button {
+    width: 80%;
+    margin-bottom: 20px;
+    padding: 10px 0;
+    background-color: #0092ff;
+    color: white;
+    font: bold;
+    border: 0;
+    outline: none;
+    font-size: 18px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
